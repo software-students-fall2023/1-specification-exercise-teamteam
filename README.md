@@ -4,7 +4,10 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+alexh212- Alex Hmitti
+as13909 - Aaron Stein
+Rafinator123 - Rafael Nadal-Scala
+jk021227 - Jhon Kim
 
 ## Stakeholders
 
