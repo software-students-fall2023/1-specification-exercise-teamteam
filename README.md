@@ -41,8 +41,15 @@ As a caregiver, I want to better understand the needs of neurodivergent individu
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+General Activity Diagram:
+https://app.diagrams.net/?src=about#G1kP_1AeIANW-cJFs-9NWKAKnpJcihPIvf
+
+Two Story Activity Diagram: 
+https://app.diagrams.net/#G13hukbD4eWsXSk-Lr6zRzcchZYaR-6Vu3
 
 ## Clickable Prototype
+Link to wireframe:
+https://www.figma.com/file/8wzNaISZX5JM3BdLh4Ejaz/Wireframe?type=design&node-id=0%3A1&mode=design&t=2OaGZ9HABv6Sc6Bx-1
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+Link to prototype:
+https://www.figma.com/file/fY0VjtclJv9SxHZEqeRVrz/Ponyo-Clickable-Prototype?type=design&node-id=0%3A1&mode=design&t=urHmASuVeNDkYihY-1
