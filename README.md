@@ -1,17 +1,31 @@
 # Specification Phase Exercise
 
-A little exercise to get started with the specification phase of the software development lifecycle. See the [instructions](instructions.md) for more detail.
-
 ## Team members
 
-alexh212- Alex Hmitti <p>
-as13909 - Aaron Stein <p>
-Rafinator123 - Rafael Nadal-Scala <p>
-jk021227 - Jhon Kim <p>
+`alexh212`- Alex Hmitti <p>
+`as13909` - Aaron Stein <p>
+`Rafinator123` - Rafael Nadal-Scala <p>
+`jk021227` - Jhon Kim <p>
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+`Stakeholder A: (neurodivergent individual w/ ADD)`
+- The Emergency contact feature is essential and therefore should be easily accessible.
+- The feature for counteracting stimulus overload might not be as useful as many will often forget to use it when the situation -arises.
+- Consider it for pre-planned alarms for when user is going to crowded places.
+- Notifications should be attention-grabbing as many people may simply ignore their reminders when they become redundant.
+- The idea of having an in-game pet is nice, especially if it gives the aforementioned reminders.
+- The app shouldn’t ask lots of questions on what features the users want since it might then become a barrier to set up and use the app.
+- Include features that keep users' hands busy.
+- Standardized reminders for daily tasks such as eating and showering can be included. 
+- Try not to include wording that infantilize users.
+
+`Stakeholder B: (Psych student w/ background in working with neurodivergent children)`
+- The idea of a focus timer and visual reminders is good but emphasized they should be optional.
+- Believed the app's emergency alert is vital, especially for children.
+- Emphasized the importance of the app's user interface and design, ensuring not to overwhelm users.
+- Suggested the app should offer users checkboxes to identify their specific challenges, with the app then customizing features based on these inputs or to have presets.
+- The interviewee sees the app positively impacting neurodivergent individuals by aiding them in social situations and helping handle sensory overloads.
 
 ## Product Vision Statement
 
@@ -41,16 +55,14 @@ As a caregiver, I want to better understand the needs of neurodivergent individu
 
 ## Activity Diagrams
 
-General Activity Diagram:
-[Activity_diagram.pdf](https://github.com/software-students-fall2023/1-specification-exercise-teamteam/files/12778271/Activity_diagram.pdf)
+`[General Activity Diagram]([Activity_diagram.pdf](https://github.com/software-students-fall2023/1-specification-exercise-teamteam/files/12778271/Activity_diagram.pdf))`
 
-
-Two Story Activity Diagram: 
-https://app.diagrams.net/#G13hukbD4eWsXSk-Lr6zRzcchZYaR-6Vu3
+`[Two Story Activity Diagram]([ShareLocationFunctionalityUMLDiagram.drawio.pdf](https://github.com/software-students-fall2023/1-specification-exercise-teamteam/files/12778272/ShareLocationFunctionalityUMLDiagram.drawio.pdf))`
 
 ## Clickable Prototype
-Link to Wireframe:
-https://www.figma.com/file/8wzNaISZX5JM3BdLh4Ejaz/Wireframe?type=design&node-id=0%3A1&mode=design&t=2OaGZ9HABv6Sc6Bx-1
+`[Link to Wireframe](https://www.figma.com/file/8wzNaISZX5JM3BdLh4Ejaz/Wireframe?type=design&node-id=0%3A1&mode=design&t=2OaGZ9HABv6Sc6Bx-1)`
 
-Link to Prototype:
-https://www.figma.com/proto/fY0VjtclJv9SxHZEqeRVrz/Ponyo-Clickable-Prototype?page-id=0%3A1&type=design&node-id=37-275&viewport=-4150%2C2699%2C0.49&t=93k0r9yA1sugBO5o-1&scaling=scale-down&starting-point-node-id=37%3A275&show-proto-sidebar=1&mode=design
+`[Link to Prototype](https://www.figma.com/proto/fY0VjtclJv9SxHZEqeRVrz/Ponyo-Clickable-Prototype?page-id=0%3A1&type=design&node-id=37-275&viewport=-4150%2C2699%2C0.49&t=93k0r9yA1sugBO5o-1&scaling=scale-down&starting-point-node-id=37%3A275&show-proto-sidebar=1&mode=design)`
+
+## Stakeholder Demo
+`[Presentation](https://docs.google.com/presentation/d/14Se8L7rP8Ieec9GXpGOdXtpmMrlSaLdiW4rpgqbJ7pI/edit#slide=id.p1)`
