@@ -4,10 +4,10 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-alexh212- Alex Hmitti
-as13909 - Aaron Stein
-Rafinator123 - Rafael Nadal-Scala
-jk021227 - Jhon Kim
+alexh212- Alex Hmitti <p>
+as13909 - Aaron Stein <p>
+Rafinator123 - Rafael Nadal-Scala <p>
+jk021227 - Jhon Kim <p>
 
 ## Stakeholders
 
