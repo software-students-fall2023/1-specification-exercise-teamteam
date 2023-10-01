@@ -42,14 +42,15 @@ As a caregiver, I want to better understand the needs of neurodivergent individu
 ## Activity Diagrams
 
 General Activity Diagram:
-https://app.diagrams.net/?src=about#G1kP_1AeIANW-cJFs-9NWKAKnpJcihPIvf
+[Activity_diagram.pdf](https://github.com/software-students-fall2023/1-specification-exercise-teamteam/files/12778271/Activity_diagram.pdf)
+
 
 Two Story Activity Diagram: 
 https://app.diagrams.net/#G13hukbD4eWsXSk-Lr6zRzcchZYaR-6Vu3
 
 ## Clickable Prototype
-Link to wireframe:
+Link to Wireframe:
 https://www.figma.com/file/8wzNaISZX5JM3BdLh4Ejaz/Wireframe?type=design&node-id=0%3A1&mode=design&t=2OaGZ9HABv6Sc6Bx-1
 
-Link to prototype:
-https://www.figma.com/file/fY0VjtclJv9SxHZEqeRVrz/Ponyo-Clickable-Prototype?type=design&node-id=0%3A1&mode=design&t=urHmASuVeNDkYihY-1
+Link to Prototype:
+https://www.figma.com/proto/fY0VjtclJv9SxHZEqeRVrz/Ponyo-Clickable-Prototype?page-id=0%3A1&type=design&node-id=37-275&viewport=-4150%2C2699%2C0.49&t=93k0r9yA1sugBO5o-1&scaling=scale-down&starting-point-node-id=37%3A275&show-proto-sidebar=1&mode=design
