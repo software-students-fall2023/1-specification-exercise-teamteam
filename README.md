@@ -12,7 +12,7 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+Ponyo is a web application which aims to facilitate communication, and centralize wellness/mental health based tools, and provide safety measures. 
 
 ## User Requirements
 
