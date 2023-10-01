@@ -55,14 +55,14 @@ As a caregiver, I want to better understand the needs of neurodivergent individu
 
 ## Activity Diagrams
 
-`[General Activity Diagram]([Activity_diagram.pdf](https://github.com/software-students-fall2023/1-specification-exercise-teamteam/files/12778271/Activity_diagram.pdf))`
+[General Activity Diagram]([Activity_diagram.pdf](https://github.com/software-students-fall2023/1-specification-exercise-teamteam/files/12778271/Activity_diagram.pdf))
 
-`[Two Story Activity Diagram]([ShareLocationFunctionalityUMLDiagram.drawio.pdf](https://github.com/software-students-fall2023/1-specification-exercise-teamteam/files/12778272/ShareLocationFunctionalityUMLDiagram.drawio.pdf))`
+[Two Story Activity Diagram]([ShareLocationFunctionalityUMLDiagram.drawio.pdf](https://github.com/software-students-fall2023/1-specification-exercise-teamteam/files/12778272/ShareLocationFunctionalityUMLDiagram.drawio.pdf))
 
 ## Clickable Prototype
-`[Link to Wireframe](https://www.figma.com/file/8wzNaISZX5JM3BdLh4Ejaz/Wireframe?type=design&node-id=0%3A1&mode=design&t=2OaGZ9HABv6Sc6Bx-1)`
+[Link to Wireframe](https://www.figma.com/file/8wzNaISZX5JM3BdLh4Ejaz/Wireframe?type=design&node-id=0%3A1&mode=design&t=2OaGZ9HABv6Sc6Bx-1)
 
-`[Link to Prototype](https://www.figma.com/proto/fY0VjtclJv9SxHZEqeRVrz/Ponyo-Clickable-Prototype?page-id=0%3A1&type=design&node-id=37-275&viewport=-4150%2C2699%2C0.49&t=93k0r9yA1sugBO5o-1&scaling=scale-down&starting-point-node-id=37%3A275&show-proto-sidebar=1&mode=design)`
+[Link to Prototype](https://www.figma.com/proto/fY0VjtclJv9SxHZEqeRVrz/Ponyo-Clickable-Prototype?page-id=0%3A1&type=design&node-id=37-275&viewport=-4150%2C2699%2C0.49&t=93k0r9yA1sugBO5o-1&scaling=scale-down&starting-point-node-id=37%3A275&show-proto-sidebar=1&mode=design)
 
 ## Stakeholder Demo
 `[Presentation](https://docs.google.com/presentation/d/14Se8L7rP8Ieec9GXpGOdXtpmMrlSaLdiW4rpgqbJ7pI/edit#slide=id.p1)`
