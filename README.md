@@ -29,7 +29,7 @@
 
 ## Product Vision Statement
 
-Ponyo is a web application which aims to facilitate communication, and centralize wellness/mental health based tools, and provide safety measures. 
+Ponyo is a mobile application which aims to facilitate communication, and centralize wellness/mental health based tools, and provide safety measures. 
 
 ## User Requirements
 
